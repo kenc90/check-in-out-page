@@ -1,4 +1,4 @@
-var cacheName = 'v12';
+var cacheName = 'v13';
 var cacheFiles = [
 	'./fonts/Framework7Icons-Regular.eot',
     './fonts/Framework7Icons-Regular.ttf',
